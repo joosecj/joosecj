@@ -1,4 +1,4 @@
-### Oi meu nome é José Carlos 👋
+### Oi, eu sou o José Carlos, estou cursando ciência da computação na faculdade Descomplica.  👋
 
 
 
