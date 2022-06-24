@@ -1,5 +1,11 @@
 ### Oi, eu sou o José Carlos e estou cursando ciência da computação na faculdade Descomplica.  👋
 
+##Estudante de Ciência da Computação, busco oportunidade para adquirir experiência como desenvolvedor back-and Java. 
+
+Prezo sempre por trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender. 
+
+Busco oportunidade profissional que permita crescimento intelectual, profissional e técnico, para que, possa contribuir efetivamente com o crescimento da empresa.
+
 
 
 <div align="center">
