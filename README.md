@@ -1,10 +1,8 @@
 ### Oi, eu sou o José Carlos!  👋
 
-Estudante de Ciência da Computação, busco oportunidade para adquirir experiência como desenvolvedor back-end Java. 
+Estudante de Ciência da Computação, busco oportunidade como desenvolvedor back-end Java. 
 
 Prezo sempre por trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender. 
-
-Busco oportunidade profissional que permita crescimento intelectual, profissional e técnico, para que, possa contribuir efetivamente com o crescimento da empresa.
 
 
 
