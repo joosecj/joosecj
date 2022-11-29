@@ -1,8 +1,6 @@
 ### Oi, eu sou o José Carlos!  👋
 
-Estudante de Ciência da Computação, busco oportunidade como desenvolvedor back-end Java. 
-
-Prezo sempre por trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender. 
+Desenvolvedor back-end utilizando a linguagem Java com o framework Spring Boot, graduando em Ciência da Computação. 
 
 
 
