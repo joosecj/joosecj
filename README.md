@@ -17,7 +17,8 @@ Desenvolvedor back-end utilizando a linguagem Java com o framework Spring Boot, 
   <img align="center" alt="Jose-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="Jose-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jose-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
- </div>
+</div>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula&locale=pt-br)](https://git.io/streak-stats)
   
 ##
 
