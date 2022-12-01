@@ -8,7 +8,7 @@ Desenvolvedor back-end utilizando a linguagem Java com o framework Spring Boot, 
   <a href="https://github.com/joosecj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joosecj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joosecj&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula"/>
 </div>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula&locale=pt-br)](https://git.io/streak-stats)-->
