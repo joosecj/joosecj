@@ -1,10 +1,10 @@
 ### Oi, eu sou o José Carlos!  👋
 
-Desenvolvedor back-end apaixonado por tecnologia e atualmente estou cursando Ciência da Computação.
-#
-Tenho experiência em desenvolvimento de aplicativos utilizando Java e o framework Spring Boot, e sou especializado na criação de APIs RESTful com o JPA para manipulação de dados em bancos de dados PostgreSQL. Além disso, possuo habilidades em Docker e testes automatizados para garantir a qualidade do código. 
-#
-Sempre busco aprender mais e aprimorar minhas habilidades, e adoro trabalhar em equipe para criar soluções escaláveis e eficientes. Meu objetivo é contribuir para o sucesso da sua empresa e ajudar a criar soluções de software que atendam às necessidades dos usuários.
+- Desenvolvedor back-end apaixonado por tecnologia e atualmente estou cursando Ciência da Computação.
+
+- Tenho experiência em desenvolvimento de aplicativos utilizando Java e o framework Spring Boot, e sou especializado na criação de APIs RESTful com o JPA para manipulação de dados em bancos de dados PostgreSQL. Além disso, possuo habilidades em Docker e testes automatizados para garantir a qualidade do código. 
+
+- Sempre busco aprender mais e aprimorar minhas habilidades, e adoro trabalhar em equipe para criar soluções escaláveis e eficientes. Meu objetivo é contribuir para o sucesso da sua empresa e ajudar a criar soluções de software que atendam às necessidades dos usuários.
 
 
 <div align="center">
