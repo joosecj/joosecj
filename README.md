@@ -6,10 +6,14 @@
 
 - Sempre busco aprender mais e aprimorar minhas habilidades, e adoro trabalhar em equipe para criar soluções escaláveis e eficientes. Meu objetivo é contribuir para o sucesso da sua empresa e ajudar a criar soluções de software que atendam às necessidades dos usuários.
 
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/??username=joosecj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joosecj&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joosecj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)
-:![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joosecj&layout=compact&langs_count=7&theme=dracula):
-:![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula):
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joosecj&layout=compact&langs_count=7&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula)
 <div align="center">
   <a href="https://github.com/joosecj">
     
