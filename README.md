@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joosecj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)
 :![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joosecj&layout=compact&langs_count=7&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula)
+:![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=joosecj&theme=dracula)
 <div align="center">
   <a href="https://github.com/joosecj">
     
